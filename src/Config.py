@@ -1,0 +1,6 @@
+train_data = "../input/train.csv"
+test_data = "../input/test.csv"
+model_ouput = "../model/"
+preprocess_data = "../input/"
+submission = "../Submission/"
+encoder = "../encoders/"
